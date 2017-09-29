@@ -2,6 +2,8 @@ package com.company;
 /*
 //// - completed/successful
 **** - it won't work/ I really tried but I don't know how to make it work
+I'll look at this later again to see if I can fix anything...
+
 The Need for Representation
  - Need a scanner system to input strings ////
 
